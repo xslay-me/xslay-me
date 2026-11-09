@@ -6,3 +6,4 @@
 - 📫  I'm currently learning python and react
 - 📫  I'm working on my existing website https://freelancing-godzly.pages.dev   adding unique features and developing skills and knowledge along the way
 - 💬 Ask me about what all projects I have vibecoded and what i have learnt from vibecoding along
+- 💬 Developing AI Animations and have Automated 4 YT Channels - https://youtube.com/@stickmananimeshq?si=00T0SMOO4cKoqAlU , https://youtube.com/@tanishqcod?si=bAlo7vLvX9SudVVB
